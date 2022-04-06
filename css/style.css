@@ -422,7 +422,7 @@ MOVIL VERTICAL ( revisamos en 320px)
     main .productos .row div[class*="col"] figure img{
         transform: scale(1,1);
         transition: 1s all;
-        height: 200px;
+        height: 2000px;
         transition: 1s all;
     }   
 
