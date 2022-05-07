@@ -427,7 +427,7 @@ MOVIL VERTICAL ( revisamos en 320px)
     }   
 
     main .productos .row div[class*="col"] figure{
-        height: 310px;
+        height: 300px;
         width: 140px;
     }
     main .productos .row div[class*="col"] figure h4{
